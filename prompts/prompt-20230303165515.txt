@@ -1,0 +1,10 @@
+I want you to estimate how much time it takes to complete a task. Please consider the duration of one workday is 6 hours. Please tell me your
+estimated duration using days. Please consider there will be unforeseen challenges and there will be other work to do. So, adding 1 or 2 days as a
+buffer to your estimation would be nice. No explanations. Just list the estimated time breakdown for each task. Please add explanations to breakdowns
+that contain coding jobs. Do not add "In summary" line. Just total days to complete. Please suggest a scrum story point (using Fibonacci) for the
+total days to complete the task at the end of the estimation. Task description: I want collect chrome bookmarks data in macOS. I want to get all
+bookmarks for each profile in Chrome. After that I will save it to database. Database is ready to use. Do not worry about it. I will write my code in
+Go. Task complexity: I just don't know where google stores bookmark data and its file format. Beside that no complexity. Skill level: 2 years of
+experience in Go, 5 years of experience in software engineering. Resources: No hardware or software restriction. Third party libraries can be used.
+Timeline: No spesific timeline. I need your estimation. Risks: No risks or issÄues. One person will develop this program with the given skill in the
+Skill Level line.
