@@ -1,7 +1,7 @@
 # AI Based Task Estimation
 
 ## Introduction
-It's crucial to deliver projects on time and within budget. However, estimating the time and resources needed to complete a task can be a challenging task, especially when it involves multiple factors such as complexity, skill level, resources, and risks. To address this challenge, I have created a Go-based task estimation application that can help product managers and engineers to estimate the time and resources required to complete a task accurately.
+It's crucial to deliver projects on time. However, estimating the time needed to complete a task can be a challenging task, especially when it involves multiple factors such as complexity, skill level, resources, and risks. To address this challenge, I have created a CHATGPT-based task estimation application that can help product managers and engineers to estimate the time required to complete a task accurately.
 
 
 ## Features
@@ -13,11 +13,11 @@ The application will prompt the user to answer several questions related to the 
 - Timeline
 - Risks and Issues
 
-**Prompt Creation:** Based on the user's input, the application will create a complete prompt that can be used in an AI-based application to estimate the time and resources needed to complete the task accurately.
+**Prompt Creation:** Based on the user's input, the application will create a complete prompt that can be used in an AI-based application to estimate the time needed to complete the task accurately.
 
-**Time Estimation:** The prompt created by the application can be used in conjunction with an AI-based application to estimate the time required to complete the task accurately. The AI-based application can consider various factors, including complexity, skill level, and resources, to provide an accurate estimate.
+**Time Estimation:** The prompt created by the application can be used in conjunction with an AI-based application to estimate the time required to complete the task accurately. The AI-based application can consider various factors; including complexity, skill level, and resources, to provide an accurate estimate.
 
-**Pre-prepared Prompt:** The application can also be used with the prepared prompt to estimate the time and resources required to complete the task accurately. The feature of using a pre-prepared prompt with the **"-prompt"** argument can be beneficial in situations where there is an error in the application (because it is saving to file before asking to ChatGPT), or the user needs to use a prompt from their storage. 
+**Pre-prepared Prompt:** This application can also be used with the prepared prompt to estimate the time and resources required to complete the task. The feature of using a pre-prepared prompt with the **"-prompt"** argument can be beneficial in situations where there is an error in the application (because it is saving to file before asking to ChatGPT), or the user needs to use a prompt from their storage. 
 
 - Suppose the user has previously created a prompt for a similar task and stored it on their system. In that case, they can use the "-prompt" argument to load the prompt directly into the program, saving time and effort. 
 
