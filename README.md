@@ -5,9 +5,7 @@ It's crucial to deliver projects on time and within budget. However, estimating 
 
 
 ## Features
-The task estimation application will have the following features:
-
-- The application will prompt the user to answer several questions related to the task they need to work on. These questions will cover the following aspects of the task:
+The application will prompt the user to answer several questions related to the task they need to work on. These questions will cover the following aspects of the task:
 - Task Description
 - Task Complexity
 - Skill Level
