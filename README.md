@@ -47,10 +47,10 @@ go build .
 ## Screenshots
 
 ### Prompt Creating with User Inputs
-![ask-to-user](https://github.com/ozbekburak/dfir-radar/blob/main/img/ask-to-user.png?raw=true)
+![ask-to-user](https://github.com/ozbekburak/estimation-assistant/blob/main/img/ask-to-user.png?raw=true)
 
 ### Using Pre-Prepared Prompt
-![preprepared](https://github.com/ozbekburak/dfir-radar/blob/main/img/preprepared.png?raw=true)
+![preprepared](https://github.com/ozbekburak/estimation-assistant/blob/main/img/preprepared.png?raw=true)
 
 ## Conclusion
 
